@@ -24,7 +24,3 @@ runtime_shell.py — Interactive shell for agent deployment.
 evaluator.py — Comparison tool for performance metrics.
 
 registry/ — Storage for specialized agent configurations (JSON).
-
-Write-up.pdf — Detailed 4-page reflection on the development process.
-
-Task-2_AI_Autonomous_Agents_Analysis.pdf - Answer to task 2
